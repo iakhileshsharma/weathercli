@@ -1,0 +1,2 @@
+# weathercli
+check the weather
